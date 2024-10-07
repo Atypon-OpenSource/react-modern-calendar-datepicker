@@ -1,6 +1,6 @@
 {
-  "name": "@atypon-opensource/react-modern-calendar-datepicker",
-  "version": "3.1.7",
+  "name": "leanworkflow-calendar-datepicker",
+  "version": "3.1.8",
   "description": "A modern, beautiful, customizable date picker for React",
   "main": "lib/index.js",
   "types": "index.d.ts",
@@ -22,13 +22,7 @@
   ],
   "author": "Kiarash Zarinmehr",
   "homepage": "https://kiarash-z.github.io/react-modern-calendar-datepicker",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Kiarash-Z/react-modern-calendar-datepicker.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Kiarash-Z/react-modern-calendar-datepicker/issues"
-  },
+"repository": "github:Atypon-OpenSource/react-modern-calendar-datepicker",
   "license": "MIT",
   "keywords": [
     "react",
